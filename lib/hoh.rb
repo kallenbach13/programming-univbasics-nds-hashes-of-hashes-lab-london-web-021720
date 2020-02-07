@@ -47,5 +47,4 @@ def naming_system
     PORTION_3,
     PORTION_4
   }
-  [PORTION_1][:sub_category][:sub_category][:sub_category][:label] => "Order"
 end
